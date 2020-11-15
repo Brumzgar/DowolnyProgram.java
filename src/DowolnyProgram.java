@@ -7,5 +7,7 @@ public class DowolnyProgram
     // test test test
     // CTRL SHIFT K = PUSH
     //![](test jpg.png)
+    //Alt+1 okienko projekt
+    // 1 2 3
 
 }
